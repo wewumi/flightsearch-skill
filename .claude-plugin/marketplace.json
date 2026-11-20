@@ -1,0 +1,14 @@
+{
+  "name": "marc-skills",
+  "description": "Claude-Skills von Marc – aktuell: Flugsuche.",
+  "owner": {
+    "name": "Marc"
+  },
+  "plugins": [
+    {
+      "name": "flugsuche",
+      "source": "./plugins/flugsuche",
+      "description": "Findet die günstigsten bzw. besten Flüge über Google Flights, Momondo, Kiwi und Trip.com ab allen sinnvollen Flughäfen im Umkreis und maximiert die Zeit vor Ort."
+    }
+  ]
+}

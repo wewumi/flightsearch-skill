@@ -1,0 +1,5 @@
+{
+  "name": "flugsuche",
+  "description": "Findet die günstigsten bzw. besten Flüge über Google Flights, Momondo, Kiwi und Trip.com ab allen sinnvollen Flughäfen im Umkreis und maximiert die Zeit vor Ort.",
+  "author": { "name": "Marc" }
+}
